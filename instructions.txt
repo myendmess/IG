@@ -1,0 +1,4 @@
+color a 
+title Installing packages for instagram botter ...
+cls
+pip install instabot
